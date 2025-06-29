@@ -90,3 +90,7 @@ idle_thread.start()
 
 # Start the Tkinter event loop
 root.mainloop()
+
+
+
+xphq egxj majj bltu
